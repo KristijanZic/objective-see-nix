@@ -13,6 +13,7 @@ Currently, this flake provides packages for the following tools (built for `aarc
 * `lulu`
 * `processmonitor`
 * `dhs`
+* `dnsmonitor`
 <!-- Add more tools here as you package them (e.g., knockknock, blockblock, etc.) -->
 
 ## 🚀 Usage
