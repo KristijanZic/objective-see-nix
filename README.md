@@ -16,6 +16,7 @@ Currently, this flake provides packages for the following tools (built for `aarc
 * `dnsmonitor`
 * `filemonitor`
 * `kextviewr`
+* `knockknock`
 <!-- Add more tools here as you package them (e.g., knockknock, blockblock, etc.) -->
 
 ## 🚀 Usage
