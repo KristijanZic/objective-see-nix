@@ -28,4 +28,4 @@ Currently, this flake provides packages for the following tools (built for `aarc
 You can run any of the tools directly from the flake without installing them to your system:
 
 ```bash
-nix run github:<your-username>/objective-see-nix#lulu
+nix run github:KristijanZic/objective-see-nix#lulu
