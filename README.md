@@ -18,6 +18,7 @@ Currently, this flake provides packages for the following tools (built for `aarc
 * `kextviewr`
 * `knockknock`
 * `netiquette`
+* `taskexplorer`
 <!-- Add more tools here as you package them (e.g., knockknock, blockblock, etc.) -->
 
 ## 🚀 Usage
